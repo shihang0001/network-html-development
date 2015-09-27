@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SmartLight"
+  id="myeclipse.1442361502597"
+  context-root="/SmartLight"
+  j2ee-spec="5.0"
+  archive="SmartLight.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
